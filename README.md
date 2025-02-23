@@ -60,6 +60,12 @@ The `TSPVisualizer` class extends `JPanel` and is responsible for drawing the ci
 WORKFLOW 
 ![image](https://github.com/user-attachments/assets/fd257bfa-cb28-4b1f-8b56-caaac7cc059a)
 
-CORE COMPONENTS
+CORE COMPONENTS<br>
 ![image](https://github.com/user-attachments/assets/6748e103-c20e-41c5-b05f-58de53071469)
+
+GUI SNAPSHOTS<br>
+![image](https://github.com/user-attachments/assets/122327a9-feb0-4a0f-be4e-a120f1b1bfd9)
+![image](https://github.com/user-attachments/assets/78c5d229-5072-46d6-92c4-7ddcb6df5737)
+
+
 
